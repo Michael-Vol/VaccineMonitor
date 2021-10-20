@@ -1,6 +1,6 @@
 ## :syringe: Vaccine Monitor CLI 
 
-### A simple Command Line Tool that implements monitor processes tracking and transfering vacccination data by using POSIX threads and UNIX sockets.
+## A simple Command Line Tool that implements monitor processes tracking and transfering vacccination data by using POSIX threads and UNIX sockets.
 
 <img src='media/demo_1.gif' alt='Demo'> </img>
 
